@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268e0a7ba84940478a220ebf0cc59e16, type: 3}
+  m_Name: ScreensConfig
+  m_EditorClassIdentifier: 
+  <UIElementInfos>k__BackingField:
+  - <UIElementType>k__BackingField: 1
+    <UIElement>k__BackingField: {fileID: 7427377031422620508, guid: d84fde309bce04c439e2a46a8e09da03, type: 3}
+  - <UIElementType>k__BackingField: 2
+    <UIElement>k__BackingField: {fileID: 7518370778874978458, guid: ecd93f87b2dc3494ea22e1f863271562, type: 3}
+  - <UIElementType>k__BackingField: 3
+    <UIElement>k__BackingField: {fileID: 8520230460398206332, guid: 9bfeea086cb99164789290f49f856d74, type: 3}
+  - <UIElementType>k__BackingField: 4
+    <UIElement>k__BackingField: {fileID: 7559525599700530399, guid: 83243d48789cdc84a9634b267ffec5db, type: 3}
+  - <UIElementType>k__BackingField: 5
+    <UIElement>k__BackingField: {fileID: 1381092928425869910, guid: d687185c9643f2a47a1a261756d75f49, type: 3}
+  - <UIElementType>k__BackingField: 6
+    <UIElement>k__BackingField: {fileID: 3591486802686883499, guid: 8522b4be7aaab774ea088405bf03452b, type: 3}
+  - <UIElementType>k__BackingField: 7
+    <UIElement>k__BackingField: {fileID: 2088971264775742676, guid: 8f46301b92cbded47adca46859a95f90, type: 3}
+  - <UIElementType>k__BackingField: 8
+    <UIElement>k__BackingField: {fileID: 7789173542781344990, guid: b46065b009c44754286b623c3e880044, type: 3}
